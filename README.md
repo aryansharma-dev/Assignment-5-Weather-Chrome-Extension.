@@ -42,10 +42,13 @@ Weather-Chrome-Extension/
 │
 ├── manifest.json        # Chrome extension configuration
 ├── popup.html           # Popup user interface
+├── popup.js             # Core logic and API integration
+├── styles.css           # Styling for the popup
+└── README.md            # Documentation
 
 ---
 
-👤 Author
+## Project Structure
 
 Aryan Sharma
 
@@ -56,6 +59,5 @@ Founder & Developer – TinyMillion
 GitHub: https://github.com/aryansharma-dev
 
 LinkedIn: https://www.linkedin.com/in/aryan-shxrma
-├── popup.js             # Core logic and API integration
-├── styles.css           # Styling for the popup
-└── README.md            # Documentation
+
+---
