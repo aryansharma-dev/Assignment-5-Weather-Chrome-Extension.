@@ -46,17 +46,13 @@ Weather-Chrome-Extension/
 ├── styles.css           # Styling for the popup
 └── README.md            # Documentation
 
----
+## 👤 Author
 
-## Project Structure
-
-Aryan Sharma
-
-B.Tech (Computer Science Engineering), AKTU
-
-Founder & Developer – TinyMillion
-
-GitHub: https://github.com/aryansharma-dev
+**Aryan Sharma**  
+- B.Tech (Computer Science Engineering), AKTU  
+- Founder & Developer – TinyMillion  
+- GitHub: [aryansharma-dev](https://github.com/aryansharma-dev)  
+- LinkedIn: [aryan-sharma](https://www.linkedin.com/in/aryan-shxrma)
 
 LinkedIn: https://www.linkedin.com/in/aryan-shxrma
 
